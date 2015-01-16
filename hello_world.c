@@ -15,6 +15,8 @@ int main(void)
 	fun2();
 	
 	getchar();
+	getchar();
+	getchar();
 
 	return 0;
 }
