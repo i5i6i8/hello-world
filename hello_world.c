@@ -2,6 +2,7 @@
 
 static void fun2(void)
 {
+	printf("%s\t", __func__);
 	printf("%s\n", __func__);
 }
 
