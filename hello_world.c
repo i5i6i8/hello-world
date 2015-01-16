@@ -11,6 +11,7 @@ int main(void)
 	printf("hello world\n");
 
 	getchar();
+	printf("%s\t", __func__);
 
 	fun2();
 	
